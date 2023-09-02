@@ -10,4 +10,4 @@
 **_Preview Two_**
 ![Image2]()
 
-> [Visit my Portfolio](https://sroy-portfolio.netlify.app "My Portfolio Website") <br> > [Visit my Linkedin](https://www.linkedin.com/in/souvik-roy-252191270 "My Linkedin Profile")
+> [Visit my Portfolio](https://sroy-portfolio.netlify.app "My Portfolio Website") <br> [Visit my Linkedin](https://www.linkedin.com/in/souvik-roy-252191270 "My Linkedin Profile")
